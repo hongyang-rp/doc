@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'test'
+project = '魔方派测试文档'
 copyright = '2025, hongyang zhao'
 author = 'hongyang zhao'
 release = 'n'
